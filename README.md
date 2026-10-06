@@ -101,6 +101,11 @@ Flame Sensor → Fire Detection
 LCD → System Output
 Buzzer / Relay → Alert and Control
 
+## Circuit Diagram
+
+The following diagram shows the Raspberry Pi IoT sensor platform and its hardware connections.
+
+![Raspberry Pi IoT Platform Circuit Diagram](assets/circuit-diagram.png)
 ## 🛠️ Hardware Components
 
 | Component      | Purpose                                    |
@@ -200,7 +205,7 @@ The application provides the following menu:
 4. IR - Object Detection
 5. Flame - Fire Detection
 6. Run All Sensors
-7. Exit
+0. Exit
 
 ## 🔄 Working Principle
 
